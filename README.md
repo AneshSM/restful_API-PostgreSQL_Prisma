@@ -1,3 +1,5 @@
+> **Status: archived (Nov 2026).** A REST API built on Prisma. Not maintained; kept for reference.
+
 # restful_API-PostgreSQL
 
 Restful API project which is built using Node.js Express.js Typescript Prisma with PostgreSQL as Relational Database
